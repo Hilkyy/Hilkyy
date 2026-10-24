@@ -1,48 +1,75 @@
 <div align="center">
 
-# Hi, I'm Hilal 👋
+# Hilal Kaya
+### AI Product Builder · Automation & Digital Workflows
 
-### AI Product Builder · Workflow Automation · Practical Software
+**I build practical tools for the moments when work gets complicated.**
 
-I turn everyday workflow challenges into useful digital tools by combining artificial intelligence, thoughtful design, and real-world operational experience.
-
-**Building useful things, thoughtfully.**
+Independent product development • AI-assisted workflows • Human-centered automation
 
 </div>
 
 ---
 
-### What I work on
+## Hello 👋
 
-- **AI-powered products** — Turning ideas into functional applications.
-- **Workflow automation** — Simplifying repetitive tasks and connecting everyday tools.
-- **Business-oriented software** — Designing practical solutions informed by real operational needs.
-- **AI skills & experimentation** — Exploring reusable, reliable AI-driven workflows.
+My background in hands-on business operations shapes how I approach technology: start with a real problem, simplify the workflow, and build something people can actually use.
 
-### Selected work
+I work at the intersection of **AI, digital products, content operations, and business process design**. My projects are grounded in everyday operational needs rather than demos built only for show.
 
-| Project | Overview | Availability |
+## Selected projects
+
+### ✦ [Kaya Social Panel](showcase/kaya-social-panel/README.md)
+**AI-assisted social media management · Proprietary product**
+
+A private social media workspace combining a visual content calendar, post preparation, AI caption assistance, mobile-style previews, scheduling, and performance monitoring. ChatGPT-assisted content preparation feeds an **approval-led workflow**: AI helps create; the human decides what gets published.
+
+**[Explore the product showcase →](showcase/kaya-social-panel/README.md)** · [Feature guide](showcase/kaya-social-panel/FEATURES.md)
+
+### ✦ Kairos
+**Independent AI-powered productivity product · Proprietary**
+
+A privately developed digital productivity project focused on reducing everyday workflow friction.
+
+*Source code, distinctive product mechanisms, and internal implementation are not public.*
+
+### ✦ Real Estate Daily Briefing
+**Automated research delivery · Private workflow**
+
+A system that delivers a daily real estate briefing through Telegram, supporting a more consistent morning research routine.
+
+### ✦ AI Blog Publishing Workflow
+**Claude-assisted writing · Human-approved publishing**
+
+A workflow for preparing blog content with AI assistance and publishing it to a professional website **only after editorial approval**.
+
+---
+
+## What I focus on
+
+| Build | Improve | Protect |
 | --- | --- | --- |
-| **Kairos** | An independently developed AI-powered productivity project. | Proprietary · Source code private |
-| **Kaya Social Panel** | An AI-assisted social media management platform connecting ChatGPT-powered content and design preparation with approval-based scheduling. It also offers AI-generated captions for uploaded photos. | Proprietary · Source code private |
-| **Real Estate Daily Briefing** | A daily real estate news and market briefing delivered through Telegram each morning. | Private workflow · Overview only |
-| **AI Blog Publishing Workflow** | A Claude-assisted blog content workflow that publishes to my professional website only after my approval. | Private workflow · Overview only |
+| AI-assisted products | Repetitive business workflows | Human decision-making |
+| Content operations | Everyday usability | Proprietary implementations |
+| Useful automations | Clear, approachable interfaces | Responsible publishing |
 
-> Selected projects are proprietary. Technical implementation, source code, private workflows, and sensitive product details are not publicly disclosed.
+## Beyond the code
 
-### Professional website
+My work is informed by direct experience in the real estate industry and operations. I also maintain a [professional real estate website](https://xn--mahmudgndzkaya-msbc.com/), where digital tools meet real-world service.
 
-**[Real Estate Advisory — Professional Website](https://xn--mahmudgndzkaya-msbc.com/)**  
-A professional web presence for my work in real estate advisory, complementing my interests in digital products and business workflows.
+## Principles
 
-### My approach
-
-I believe good technology should solve a concrete problem, reduce friction, and feel simple to use. I am especially interested in the space where AI, productivity, and independent product development meet.
+> Useful beats complicated.  
+> Automation should create room for better decisions—not remove the person making them.
 
 ---
 
 <div align="center">
 
-*Currently building, learning, and refining new ideas.*
+**Building thoughtfully. Learning continuously.**
+
+[View Kaya Social Panel](showcase/kaya-social-panel/README.md) · [Professional website](https://xn--mahmudgndzkaya-msbc.com/)
+
+<sub>Selected work is proprietary. No private source code, API keys, client data, prompts, or sensitive integration details are published in this portfolio.</sub>
 
 </div>
