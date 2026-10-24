@@ -24,7 +24,7 @@ I turn everyday workflow challenges into useful digital tools by combining artif
 | Project | Overview | Availability |
 | --- | --- | --- |
 | **Kairos** | An independently developed AI-powered productivity project. | Proprietary · Source code private |
-| **Kaya Social Panel** | A software project exploring streamlined social media workflows. | Private repository |
+| **Kaya Social Panel** | A social media management dashboard for organizing content, planning posts, and managing publishing workflows. | Proprietary · Source code private |
 | **Real Estate Daily Briefing** | A daily real estate news and market briefing delivered through Telegram each morning. | Private workflow · Overview only |
 | **AI Blog Publishing Workflow** | A Claude-assisted blog content workflow that publishes to my professional website only after my approval. | Private workflow · Overview only |
 
