@@ -29,6 +29,11 @@ I turn everyday workflow challenges into useful digital tools by combining artif
 
 > Selected projects are proprietary. Technical implementation, source code, private workflows, and sensitive product details are not publicly disclosed.
 
+### Professional website
+
+**[Real Estate Advisory — Professional Website](https://xn--mahmudgndzkaya-msbc.com/)**  
+A professional web presence for my work in real estate advisory, complementing my interests in digital products and business workflows.
+
 ### My approach
 
 I believe good technology should solve a concrete problem, reduce friction, and feel simple to use. I am especially interested in the space where AI, productivity, and independent product development meet.
