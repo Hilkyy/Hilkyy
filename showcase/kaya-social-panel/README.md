@@ -19,6 +19,22 @@ It was developed around a practical need: reduce the operational friction of pre
 
 > **Product showcase only.** This is not an open-source repository or a software download. The implementation, credentials, integrations, internal prompts, and proprietary workflows remain private.
 
+## Interface gallery
+
+The visuals below are **privacy-safe illustrations based on the real product interface**, not unedited screenshots. Personal account details, real analytics, and private publishing content have been replaced with illustrative elements.
+
+### Content calendar
+
+![Kaya Social Panel content calendar illustration](assets/calendar.svg)
+
+### Analytics and reporting
+
+![Kaya Social Panel analytics illustration](assets/analytics.svg)
+
+### AI-assisted publishing and preview
+
+![Kaya Social Panel publishing interface illustration](assets/publishing.svg)
+
 ## At a glance
 
 | Area | Product experience |
